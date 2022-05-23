@@ -3,3 +3,4 @@ node_modules
 client/node_modules
 client/build
 client/firebase
+client/public/fonts
