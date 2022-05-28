@@ -105,3 +105,5 @@ Mood for Spotify is a single-page application built using React and Styled-Compo
 
 ### Album Page
 ![album](https://user-images.githubusercontent.com/79837402/170195843-fc7b33d5-c3a1-4b3d-91c7-0aa3edfdba56.png)
+
+## Thank you for visiting.
