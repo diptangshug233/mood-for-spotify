@@ -56,12 +56,11 @@ Mood for Spotify is a single-page application built using React and Styled-Compo
 - styled-components
 - react-slider
 - react-router-dom
-- react-chartjs-2
 - react-bootstrap-icons
 - react-chartjs-2
+- chart.js
 - firebase
 - react-dom
-- chart.js
 - react-fontawesome
 - react-scripts
 
