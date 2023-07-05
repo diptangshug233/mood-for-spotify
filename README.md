@@ -11,40 +11,6 @@ Mood for Spotify is a single-page application built using React and Styled-Compo
 1. From the `server` directory: `npm run server`.
 1. Visit `http://localhost:3000/`
 
-## Deploying to Heroku
-
-1. Create new heroku app
-
-   ```bash
-   heroku create app-name
-   ```
-
-2. Set Heroku environment variables
-
-   ```bash
-   heroku config:set CLIENT_ID=XXXXX
-   heroku config:set CLIENT_SECRET=XXXXX
-   heroku config:set REDIRECT_URI=https://app-name.herokuapp.com/callback
-   heroku config:set FRONTEND_URI=https://app-name.herokuapp.com
-   ```
-
-3. Push to Heroku
-
-   ```bash
-   git push heroku master
-   ```
-
-4. Add `http://app-name.herokuapp.com/callback` as a Redirect URI in the spotify application settings
-
-5. Once the app is live on Heroku, hitting http://app-name.herokuapp.com/login should be the same as hitting http://localhost:8888/login
-
-## Tech Stack
-
-- React
-- Styled-Components
-- Node.JS
-- Express
-
 ## Dependencies
 
 - axios
